@@ -3,7 +3,7 @@
 ## Description
 104,320 Images - Korean and Hindi OCR Data in Natural Scenes. The collecting scenes of this dataset include packaging, posters, tickets, reminders, menus, building signs, etc.. The data diversity includes multiple scenes, multiple shooting angles and multiple light conditions. For annotation, line-level polygon bounding box (or tetragon bounding box, rectangle bounding box) annotation, transcription and text attributes (language type) for the texts; vertical-level polygon bounding box (or tetragon bounding box, rectangle bounding box) annotation, transcription and text attributes (language type) for the text. The dataset can be used for Korean and Hindi OCR tasks in natural scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1254?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1254?source=Github
 
 
 ## Data size
